@@ -1,4 +1,4 @@
-# newspark-vue
+# vue-news
 
 ## Project setup
 ```
