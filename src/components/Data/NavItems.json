@@ -1,0 +1,135 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "linkText": "Inicio",
+      "child": true,
+      "icon": "angle-down",
+      "submenu": [
+        {
+          "id": 11,
+          "link": "/",
+          "linkText": "Inicio 1"
+        },
+        {
+          "id": 12,
+          "link": "/dark",
+          "linkText": "Inicio Dark"
+        },
+        {
+          "id": 13,
+          "link": "/home-two",
+          "linkText": "Inicio 2"
+        },
+        {
+          "id": 14,
+          "link": "/home-three",
+          "linkText": "Inicio 3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "linkText": "Paginas",
+      "child": true,
+      "icon": "angle-down",
+      "submenu": [
+        {
+          "id": 21,
+          "link": "/about-us",
+          "linkText": "Nosotros"
+        },
+        {
+          "id": 22,
+          "link": "/archive",
+          "linkText": "Archivo"
+        },
+        {
+          "id": 23,
+          "link": "/contact",
+          "linkText": "Contacto"
+        },
+        {
+          "id": 24,
+          "link": "/404",
+          "linkText": 404
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "linkText": "Publicaciones",
+      "child": true,
+      "icon": "angle-down",
+      "submenu": [
+        {
+          "id": 31,
+          "linkText": "Post 1",
+          "link":"/posts/postOne"  
+        },
+        {
+          "id": 32,
+          "linkText": "Post 2",
+          "link":"/posts/posttwo"
+        },
+        {
+          "id": 33,
+          "linkText": "Post 3",
+          "link":"/posts/postthree"
+         
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "linkText": "Categorias",
+      "child": true,
+      "icon": "angle-down",
+      "submenu": [
+        {
+          "id": 41,
+          "link": "/business",
+          "linkText": "Negocios"
+        },
+        {
+          "id": 42,
+          "link": "/entertainment",
+          "linkText": "Entretenimiento"
+        },
+        {
+          "id": 43,
+          "link": "/features",
+          "linkText": "Caracteristicas"
+        },
+        {
+          "id": 44,
+          "link": "/sports",
+          "linkText": "Deportes"
+        },
+        {
+          "id": 45,
+          "link": "/trending",
+          "linkText": "Tendencias"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "linkText": "El Mundo",
+      "link": "/404",
+      "child":false
+    },
+    {
+      "id": 6,
+      "linkText": "Deportes",
+      "link": "/sports",
+      "child":false
+    },
+    {
+      "id": 7,
+      "linkText": "Contacto",
+      "link": "/contact",
+      "child":false
+    }
+  ]
+}

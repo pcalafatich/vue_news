@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "_id": "61810a96f94ed7881da838db",
+      "title": "Destinos posibles en el mundo abierto...",
+      "article": " Suspendisse potenti. Aenean finibus vitae velit nec dapibus. Donec eu aliquam urna, vitae tincidunt tellus. Vivamus egestas massa vitae porttitor ullamcorper.",
+      "action":"trending",
+      "image": "entertainment-1.jpg",
+      "category": {
+        "name": "TURISMO",
+        "create_At": "March 27, 2020"
+      }
+    },
+    {
+      "_id": "61810a96ed484972a85cc109",
+      "title": "Como los turistas estan protegiendo la economía mundial",
+      "article": " Suspendisse potenti. Aenean finibus vitae velit nec dapibus. Donec eu aliquam urna, vitae tincidunt tellus. Vivamus egestas massa vitae porttitor ullamcorper.",
+      "action":"play",
+      "image": "entertainment-2.jpg",
+      "category": {
+        "name": "Technology",
+        "create_At": "March 27, 2020"
+      }
+    },
+    {
+      "_id": "61810a9659b5fc229a8c1389",
+      "title": "Cambiando las intenciones de los inversores",
+      "article": " Suspendisse potenti. Aenean finibus vitae velit nec dapibus. Donec eu aliquam urna, vitae tincidunt tellus. Vivamus egestas massa vitae porttitor ullamcorper.",
+      "action":"trending",
+      "image": "entertainment-3.jpg",
+      "category": {
+        "name": "ECONOMIA",
+        "create_At": "March 27, 2020"
+      }
+    },
+    {
+      "_id": "61810a9688b5023a5fb07812",
+      "title": "Cambiando las estrategias de inversion",
+      "article": "Suspendisse potenti. Aenean finibus vitae velit nec dapibus. Donec eu aliquam urna, vitae tincidunt tellus. Vivamus egestas massa vitae porttitor ullamcorper.",
+      "action":"play",
+      "image": "entertainment-4.jpg",
+      "category": {
+        "name": "Finanzas",
+        "create_At": "March 27, 2020"
+      }
+    },
+    {
+      "_id": "61810a961523248bb75b0f33",
+      "title": "Mejore su estado de ánimo ahorrando dinero...",
+      "article": "Suspendisse potenti. Aenean finibus vitae velit nec dapibus. Donec eu aliquam urna, vitae tincidunt tellus. Vivamus egestas massa vitae porttitor ullamcorper.",
+      "action":"trending",
+      "image": "entertainment-2.jpg",
+      "category": {
+        "name": "SALUD",
+        "create_At": "March 27, 2020"
+      }
+    }
+  ]
+}
