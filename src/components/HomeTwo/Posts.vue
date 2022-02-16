@@ -5,7 +5,7 @@
         <div class="col-lg-8">
           <div class="treding-post-news mt-40">
             <div class="section-title">
-              <h3 class="title">Trending News</h3>
+              <h3 class="title">Tendencias</h3>
             </div>
             <div class="row">
               <div class="col-md-6">
@@ -57,16 +57,15 @@
                         <div class="post-gallery-content">
                           <h5 class="title">
                             <router-link to="/posts/postOne"
-                              >Miami woman deliver her powerful winds kept help
-                              from nuture…</router-link
+                              >La mujer de Miami entrega sus poderosos vientos evitando la ayuda de la crianza...</router-link
                             >
                           </h5>
                           <div class="meta-post-2-style">
                             <div class="meta-post-categores">
-                              <a href="#">TECHNOLOGY</a>
+                              <a href="#">TECNOLOGIA</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -81,16 +80,15 @@
                         <div class="post-gallery-content">
                           <h5 class="title">
                             <router-link to="/posts/postOne"
-                              >Miami woman deliver her powerful winds kept help
-                              from nuture…</router-link
+                              >La mujer de Miami entrega sus poderosos vientos evitando la ayuda de la crianza...</router-link
                             >
                           </h5>
                           <div class="meta-post-2-style">
                             <div class="meta-post-categores">
-                              <a href="#">TECHNOLOGY</a>
+                              <a href="#">SOCIEDAD</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -105,8 +103,7 @@
                         <div class="post-gallery-content">
                           <h5 class="title">
                             <router-link to="/posts/postOne"
-                              >Miami woman deliver her powerful winds kept help
-                              from nuture…</router-link
+                              >La mujer de Miami entrega sus poderosos vientos evitando la ayuda de la crianza...</router-link
                             >
                           </h5>
                           <div class="meta-post-2-style">
@@ -114,7 +111,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -138,7 +135,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -162,7 +159,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -188,7 +185,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -212,7 +209,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -236,7 +233,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -260,7 +257,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>
@@ -284,7 +281,7 @@
                               <a href="#">TECHNOLOGY</a>
                             </div>
                             <div class="meta-post-date">
-                              <span>April 26, 2020</span>
+                              <span>12/02/2022</span>
                             </div>
                           </div>
                         </div>

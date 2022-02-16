@@ -7,7 +7,7 @@
       "action":"trending",
       "image": "sports-news.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
     },
@@ -18,7 +18,7 @@
       "action":"play",
       "image": "sports-1.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
     },
@@ -29,7 +29,7 @@
       "action":"trending",
       "image": "sports-2.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
     },
@@ -40,7 +40,7 @@
       "action":"play",
       "image": "sports-3.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
     },
@@ -51,7 +51,7 @@
       "action":"trending",
       "image": "sports-4.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
       
@@ -63,7 +63,7 @@
       "action":"trending",
       "image": "sports-5.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
       
@@ -75,7 +75,7 @@
       "action":"trending",
       "image": "sports-2.jpg",
       "category": {
-        "name": "Technology",
+        "name": "DEPORTES",
         "create_At": "March 27, 2020"
       }
     }

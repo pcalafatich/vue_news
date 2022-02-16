@@ -39,7 +39,7 @@
                         <FollowCount />
                         <div class="trending-most-view mt-25">
                             <div class="section-title">
-                                <h3 class="title">Most View</h3>
+                                <h3 class="title">Más vistos</h3>
                             </div>
                         </div>
                         <div class="trending-sidebar-slider position-relative">

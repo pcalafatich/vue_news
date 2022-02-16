@@ -6,7 +6,8 @@
                     <div class="row align-items-center">
                         <div class="col-lg-7 col-md-5">
                             <div class="footer-logo">
-                                <a href="#"><img src="@/assets/images/logo-2.png" alt="" /></a>
+                                <h3 class="title" style="color: white">The Wave of Pride</h3>
+                                <!-- <a href="#"><img src="@/assets/images/logo-2.png" alt="" /></a> -->
                                 <ul>
                                     <li>
                                         <a href="#"><i class="fab fa-twitter"></i></a>

@@ -63,7 +63,7 @@
                     align-items-center
                   "
                 >
-                  <h3 class="title">Upcoming Matches</h3>
+                  <h3 class="title">EUROCOPA</h3>
                   <a href="#">MAS VISTOS</a>
                 </div>
                 <div class="upcoming-matches-post-items">
@@ -167,7 +167,7 @@
               <div class="newsletter-box mt-45">
                 <h5 class="title">Newsletter</h5>
                 <p>
-                  Su direccion de correo no será publicada. 
+                  Regístrese para recibir nuestros newsletter diarios. 
                 </p>
                 <form action="#">
                   <div class="input-box">
@@ -197,7 +197,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Gastronomía</span>
+                        <span>GASTRONOMIA</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -209,7 +209,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Entretenimiento</span>
+                        <span>ENTRETENIMIENTO</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -221,7 +221,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Finanzas</span>
+                        <span>FINANZAS</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -233,7 +233,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Negocios</span>
+                        <span>NEGOCIOS</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -245,7 +245,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Ciencia</span>
+                        <span>CIENCIA</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>
@@ -257,7 +257,7 @@
                     />
                     <div class="Categories-content">
                       <a href="#">
-                        <span>Internacional</span>
+                        <span>EL MUNDO</span>
                         <img src="@/assets/images/arrow.svg" alt="" />
                       </a>
                     </div>

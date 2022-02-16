@@ -6,8 +6,8 @@
       "action":"trending",
       "image": "play-post-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -16,8 +16,8 @@
       "action":"play",
       "image": "play-post-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -26,8 +26,8 @@
       "action":"trending",
       "image": "play-post-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -36,8 +36,8 @@
       "action":"play",
       "image": "play-post-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -46,8 +46,8 @@
       "action":"trending",
       "image": "play-post-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     }
   ]

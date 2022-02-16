@@ -8,7 +8,7 @@
       "image": "entertainment-1.jpg",
       "category": {
         "name": "TURISMO",
-        "create_At": "March 27, 2020"
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -18,8 +18,8 @@
       "action":"play",
       "image": "entertainment-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "TECNOLOGIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -30,7 +30,7 @@
       "image": "entertainment-3.jpg",
       "category": {
         "name": "ECONOMIA",
-        "create_At": "March 27, 2020"
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -41,7 +41,7 @@
       "image": "entertainment-4.jpg",
       "category": {
         "name": "Finanzas",
-        "create_At": "March 27, 2020"
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -52,7 +52,7 @@
       "image": "entertainment-2.jpg",
       "category": {
         "name": "SALUD",
-        "create_At": "March 27, 2020"
+        "create_At": "12/02/2022"
       }
     }
   ]

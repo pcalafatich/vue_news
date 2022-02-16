@@ -11,9 +11,9 @@
                     <li class="breadcrumb-item">
                       <a href="index.html">Home</a>
                     </li>
-                    <li class="breadcrumb-item"><a href="#">Category</a></li>
+                    <li class="breadcrumb-item"><a href="#">Categoría</a></li>
                     <li class="breadcrumb-item active" aria-current="page">
-                      Sports
+                      Deportes
                     </li>
                   </ol>
                 </nav>
@@ -24,7 +24,7 @@
                 <div class="archive-btn">
                   <ul>
                     <li>
-                      <span>Category: <span>Sports</span></span>
+                      <span>Categoría: <span>Deportes</span></span>
                     </li>
                   </ul>
                 </div>
@@ -38,13 +38,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -57,13 +56,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -76,13 +74,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -95,13 +92,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -114,13 +110,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -133,13 +128,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -152,13 +146,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -171,13 +164,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -190,13 +182,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -209,13 +200,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -228,13 +218,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -247,13 +236,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -266,13 +254,12 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
@@ -285,20 +272,19 @@
                             alt="feature"
                           />
                           <div class="meta-categores">
-                            <span>TECHNOLOGY</span>
+                            <span>DEPORTES</span>
                           </div>
                         </div>
                         <div class="feature-news-content">
                           <p>
-                            The worried doctors stood together after their
-                            rounds, weighing the risks.
+                            Conubia posuere donec placerat leo metus urna cras, risus primis maecenas vivamus commodo torquent tortor
                           </p>
                         </div>
                       </div>
                     </div>
                     <div class="col-lg-12">
                       <div class="bussiness-btn mt-30">
-                        <a class="main-btn main-btn-2" href="#">See more</a>
+                        <a class="main-btn main-btn-2" href="#">Ver más</a>
                       </div>
                     </div>
                   </div>

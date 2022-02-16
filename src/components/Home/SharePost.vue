@@ -8,7 +8,7 @@
           darkClass && 'title' in darkClass ? darkClass.title : '',
         ]"
       >
-        <h3 class="title">Most Share</h3>
+        <h3 class="title">Más Compartidos</h3>
       </div>
     </div>
     <div class="trending-sidebar-slider position-relative">

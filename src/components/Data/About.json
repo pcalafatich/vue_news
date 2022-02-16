@@ -7,8 +7,8 @@
       "action":"trending",
       "image": "entertainment-dark-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "TECNOLOGIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -18,8 +18,8 @@
       "action":"play",
       "image": "entertainment-dark-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "TECNOLOGIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -29,8 +29,8 @@
       "action":"trending",
       "image": "entertainment-dark-3.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "TECNOLOGIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -41,7 +41,7 @@
       "image": "entertainment-dark-4.jpg",
       "category": {
         "name": "DEPORTES",
-        "create_At": "March 27, 2020"
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -51,8 +51,8 @@
       "action":"trending",
       "image": "entertainment-dark-1.jpg",
       "category": {
-        "name": "INTERNACIONAL",
-        "create_At": "March 27, 2020"
+        "name": "El Mundo",
+        "create_At": "12/02/2022"
       }
     },
      {
@@ -62,8 +62,8 @@
       "action":"trending",
       "image": "entertainment-dark-3.jpg",
       "category": {
-        "name": "GASTRONOMIA",
-        "create_At": "March 27, 2020"
+        "name": "Gastronomia",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -73,8 +73,8 @@
       "action":"play",
       "image": "entertainment-dark-4.jpg",
       "category": {
-        "name": "PSICOLOGIA",
-        "create_At": "March 27, 2020"
+        "name": "Psicologia",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -84,8 +84,8 @@
       "action":"trending",
       "image": "entertainment-dark-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Tecnología",
+        "create_At": "12/02/2022"
       }
     },
          {
@@ -95,8 +95,8 @@
       "action":"trending",
       "image": "entertainment-dark-3.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Plolítica",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -106,8 +106,8 @@
       "action":"play",
       "image": "entertainment-dark-4.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Negocios",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -117,8 +117,8 @@
       "action":"trending",
       "image": "entertainment-dark-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
       }
     },
       {
@@ -128,8 +128,8 @@
       "action":"trending",
       "image": "entertainment-dark-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "Arte",
+        "create_At": "12/02/2022"
       }
     }
   ]

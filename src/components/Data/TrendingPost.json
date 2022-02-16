@@ -7,8 +7,8 @@
       "action":"trending",
       "image": "trending-news-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "DEPORTES",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -18,8 +18,8 @@
       "action":"play",
       "image": "trending-news-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "MODA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -29,8 +29,8 @@
       "action":"trending",
       "image": "trending-news-3.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "GASTRONOMIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -40,8 +40,8 @@
       "action":"play",
       "image": "trending-news-1.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "GASTRONOMIA",
+        "create_At": "12/02/2022"
       }
     },
     {
@@ -51,8 +51,8 @@
       "action":"trending",
       "image": "trending-news-2.jpg",
       "category": {
-        "name": "Technology",
-        "create_At": "March 27, 2020"
+        "name": "SOCIEDAD",
+        "create_At": "12/02/2022"
       }
     }
   ]

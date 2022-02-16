@@ -11,10 +11,10 @@
             <div class="about-author-content">
               <nav aria-label="breadcrumb">
                 <ol class="breadcrumb">
-                  <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                  <li class="breadcrumb-item"><a href="#">Worldnews</a></li>
+                  <li class="breadcrumb-item"><a href="index.html">Inicio</a></li>
+                  <li class="breadcrumb-item"><a href="#">El Mundo</a></li>
                   <li class="breadcrumb-item active" aria-current="page">
-                    Health
+                    Salud
                   </li>
                 </ol>
               </nav>
@@ -34,14 +34,13 @@
                   <ul>
                     <li><i class="fas fa-comment"></i>45020</li>
                     <li><i class="fas fa-fire"></i>45020</li>
-                    <li>6 minutes read</li>
+                    <li>6 minutos lectura</li>
                   </ul>
                 </div>
               </div>
               <div class="post-content">
                 <h3 class="title">
-                  Digital Asset help compan design create and run the next
-                  generation of business applications.
+                  Los activos digitales ayudan al diseño de la compañía a crear y ejecutar la próxima generación de aplicaciones comerciales.
                 </h3>
                 <div class="post-author">
                   <div class="author-info">
@@ -50,8 +49,8 @@
                     </div>
                     <h5 class="title">Rafiqul islam</h5>
                     <ul>
-                      <li>March 26, 2020</li>
-                      <li>Updated 1:58 p.m. ET</li>
+                      <li>12/02/2022</li>
+                      <li>Actualizado 1:58 a.m. </li>
                     </ul>
                   </div>
                   <div class="author-social">
@@ -199,12 +198,9 @@
               <div class="post-quote post-quote-3-style text-center">
                 <div class="post-quote-content">
                   <p>
-                    I must explain to you how all this mistake idea denouncing
-                    pleasure and praising pain was born and I will give you a
-                    complete account of the system, and expound the actual
-                    teachings of the great explorer of the truth, the
-                    master-builder of human happiness. No one rejects, dislikes,
-                    or avoids pleasure because it is pleasure.
+                   Debo explicarles cómo nació toda esta idea equivocada que denuncia el placer y exaltan el dolor y les daré cuenta completa del sistema 
+                   y expondré las enseñanzas reales del gran explorador de la verdad, el maestro constructor de la felicidad humana. Nadie rechaza, tiene 
+                   aversión o evita el placer porque es placer.
                   </p>
                   <div class="user">
                     <img src="@/assets/images/author1.png" alt="" />

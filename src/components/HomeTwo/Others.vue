@@ -11,7 +11,7 @@
               <signup-style-one />
               <div class="post-sports-box mt-40">
                 <div class="section-title">
-                  <h3 class="title">Sports</h3>
+                  <h3 class="title">Deportes</h3>
                 </div>
                 <div class="post-sports-item">
                   <div class="post-sports-thumb">
@@ -71,14 +71,14 @@
                   </div>
                 </div>
                 <div class="post-btn pt-20">
-                  <a class="main-btn main-btn-2" href="#">See More</a>
+                  <a class="main-btn main-btn-2" href="#">Ver más</a>
                 </div>
               </div>
             </div>
             <div class="col-lg-6 col-md-6">
               <div class="finance-box mt-40">
                 <div class="section-title">
-                  <h3 class="title">Most View</h3>
+                  <h3 class="title">Más Vistos</h3>
                 </div>
                 <div class="finance-items">
                   <template v-for="(data, index) in otherfinance.slice(0, 3)">
@@ -90,7 +90,7 @@
                   </template>
                 </div>
                 <div class="finance-btn text-center mt-10">
-                  <a class="main-btn main-btn-2" href="#">See more</a>
+                  <a class="main-btn main-btn-2" href="#">Ver más</a>
                 </div>
               </div>
             </div>
@@ -100,28 +100,28 @@
           <div class="post-footer-sidebar">
             <div class="post-contact mt-40">
               <div class="section-title">
-                <h3 class="title">Connect us</h3>
+                <h3 class="title">Contáctese</h3>
               </div>
               <ul>
                 <li>
                   <a href="#">
                     <i class="fab fa-facebook-f"></i>
                     <span>34,456</span>
-                    <p>Fans</p>
+                    <p>Me Gusta</p>
                   </a>
                 </li>
                 <li>
                   <a class="item-2" href="#">
                     <i class="fab fa-twitter"></i>
                     <span>34,456</span>
-                    <p>Followers</p>
+                    <p>Siguiendo</p>
                   </a>
                 </li>
                 <li>
                   <a class="item-3" href="#">
                     <i class="fab fa-youtube"></i>
                     <span>34,456</span>
-                    <p>Subscribers</p>
+                    <p>Suscriptores</p>
                   </a>
                 </li>
               </ul>
@@ -130,21 +130,21 @@
                   <a class="item-4" href="#">
                     <i class="fab fa-instagram"></i>
                     <span>34,456</span>
-                    <p>Followers</p>
+                    <p>Seguidores</p>
                   </a>
                 </li>
                 <li>
                   <a class="item-5" href="#">
                     <i class="fab fa-vimeo-v"></i>
                     <span>34,456</span>
-                    <p>Followers</p>
+                    <p>Seguidores</p>
                   </a>
                 </li>
                 <li>
                   <a class="item-6" href="#">
                     <i class="fab fa-maxcdn"></i>
                     <span>34,456</span>
-                    <p>Fans</p>
+                    <p>Me Gusta</p>
                   </a>
                 </li>
               </ul>
@@ -152,7 +152,7 @@
           </div>
           <div class="post-international mt-40">
             <div class="section-title">
-              <h3 class="title">International news</h3>
+              <h3 class="title">El Mundo</h3>
             </div>
             <div class="international-post-items">
               <div class="international-item">
@@ -161,17 +161,15 @@
                 </div>
                 <h5 class="title">
                   <router-link to="/posts/postOne"
-                    >Why clinician spiritual health matters in the covid-19
-                    crisis: you can’t pour from an empty cup…</router-link
+                    >Por qué es importante la salud espiritual del médico en la crisis del covid-19: no se puede verter de un vaso vacío...</router-link
                   >
                 </h5>
                 <div class="meta-user">
-                  <span><i class="fal fa-user-circle"></i> Subash Chandra</span>
+                  <span><i class="fal fa-user-circle"></i> Eduardo Cormillot</span>
                 </div>
                 <div class="text-thumb d-flex align-items-center">
                   <p>
-                    The property, complete with seat screening from room, a
-                    100-seat amphitheater and a swimming pond with sandy shower…
+                    Pellentesque luctus diam phasellus litora auctor nec ultricies, metus facilisi at per tempor dictumst condimentum, malesuada eros dui curabitur sociis ut.
                   </p>
                   <div class="thumb">
                     <img

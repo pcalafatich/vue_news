@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="section-title">
-            <h3 class="title">Our latest news</h3>
+            <h3 class="title">Últimas Noticias</h3>
           </div>
         </div>
       </div>
